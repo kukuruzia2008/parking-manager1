@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+<rect x="0" y="0" width="390" height="844" rx="0" fill="#F4F7FB" stroke="none" stroke-width="1"/>
+<text x="24" y="43" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="800" fill="#4169F5" text-anchor="start">PARKING</text>
+<text x="24" y="75" font-family="Inter,Arial,sans-serif" font-size="25" font-weight="800" fill="#101B33" text-anchor="start">Профиль</text>
+<text x="24" y="99" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#77839A" text-anchor="start">Управление аккаунтом и настройками</text>
+<rect x="12" y="770" width="366" height="62" rx="20" fill="#FFFFFF" stroke="#E8EDF4" stroke-width="1"/>
+<text x="49" y="795" font-family="Inter,Arial,sans-serif" font-size="19" font-weight="700" fill="#77839A" text-anchor="middle">⌂</text>
+<text x="49" y="817" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="600" fill="#77839A" text-anchor="middle">Главная</text>
+<text x="122" y="795" font-family="Inter,Arial,sans-serif" font-size="19" font-weight="700" fill="#77839A" text-anchor="middle">▦</text>
+<text x="122" y="817" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="600" fill="#77839A" text-anchor="middle">Парковка</text>
+<text x="195" y="795" font-family="Inter,Arial,sans-serif" font-size="19" font-weight="700" fill="#77839A" text-anchor="middle">＋</text>
+<text x="195" y="817" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="600" fill="#77839A" text-anchor="middle">Бронь</text>
+<text x="268" y="795" font-family="Inter,Arial,sans-serif" font-size="19" font-weight="700" fill="#77839A" text-anchor="middle">◷</text>
+<text x="268" y="817" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="600" fill="#77839A" text-anchor="middle">История</text>
+<text x="341" y="795" font-family="Inter,Arial,sans-serif" font-size="19" font-weight="700" fill="#4169F5" text-anchor="middle">○</text>
+<text x="341" y="817" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="600" fill="#4169F5" text-anchor="middle">Профиль</text>
+<rect x="20" y="124" width="350" height="112" rx="18" fill="#FFFFFF" stroke="#E8EDF4" stroke-width="1"/>
+<circle cx="68" cy="180" r="28" fill="#EAF0FF"/>
+<text x="68" y="187" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="800" fill="#4169F5" text-anchor="middle">ЗК</text>
+<text x="112" y="174" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="750" fill="#101B33" text-anchor="start">Захар Кузин</text>
+<text x="112" y="197" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="600" fill="#16A36A" text-anchor="start">Пользователь · Аккаунт активен</text>
+<text x="22" y="281" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="800" fill="#77839A" text-anchor="start">ЛИЧНЫЕ ДАННЫЕ</text>
+<rect x="20" y="295" width="350" height="54" rx="13" fill="#FFFFFF" stroke="#E8EDF4" stroke-width="1"/>
+<text x="40" y="328" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="600" fill="#101B33" text-anchor="start">Имя и фамилия</text>
+<text x="348" y="328" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="650" fill="#4169F5" text-anchor="end">Изменить  ›</text>
+<rect x="20" y="357" width="350" height="54" rx="13" fill="#FFFFFF" stroke="#E8EDF4" stroke-width="1"/>
+<text x="40" y="390" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="600" fill="#101B33" text-anchor="start">Электронная почта</text>
+<text x="348" y="390" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="500" fill="#77839A" text-anchor="end">›</text>
+<text x="22" y="455" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="800" fill="#77839A" text-anchor="start">НАСТРОЙКИ</text>
+<rect x="20" y="469" width="350" height="54" rx="13" fill="#FFFFFF" stroke="#E8EDF4" stroke-width="1"/>
+<text x="40" y="502" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="600" fill="#101B33" text-anchor="start">Уведомления</text>
+<text x="348" y="502" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="650" fill="#16A36A" text-anchor="end">Включены  ›</text>
+<rect x="20" y="531" width="350" height="54" rx="13" fill="#FFFFFF" stroke="#E8EDF4" stroke-width="1"/>
+<text x="40" y="564" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="600" fill="#101B33" text-anchor="start">Способы оплаты</text>
+<text x="348" y="564" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="500" fill="#77839A" text-anchor="end">›</text>
+<rect x="20" y="593" width="350" height="54" rx="13" fill="#FFFFFF" stroke="#E8EDF4" stroke-width="1"/>
+<text x="40" y="626" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="600" fill="#101B33" text-anchor="start">Помощь и поддержка</text>
+<text x="348" y="626" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="500" fill="#77839A" text-anchor="end">›</text>
+<rect x="20" y="670" width="350" height="48" rx="13" fill="#FDEEEF" stroke="none" stroke-width="1"/>
+<text x="195" y="700" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" fill="#E45B62" text-anchor="middle">Выйти из аккаунта</text>
+<text x="195" y="744" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="500" fill="#77839A" text-anchor="middle">Parking Manager · Версия 1.0</text>
+</svg>

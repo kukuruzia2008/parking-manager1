@@ -1,0 +1,40 @@
+{
+  "name": "Parking Manager — парковки и навигация",
+  "short_name": "Parking Manager",
+  "description": "Поиск парковок, бронирование и автомобильная навигация",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait",
+  "background_color": "#050912",
+  "theme_color": "#080f1d",
+  "categories": [
+    "navigation",
+    "travel",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

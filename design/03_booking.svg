@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+<rect x="0" y="0" width="390" height="844" rx="0" fill="#F4F7FB" stroke="none" stroke-width="1"/>
+<text x="24" y="43" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="800" fill="#4169F5" text-anchor="start">PARKING</text>
+<text x="24" y="75" font-family="Inter,Arial,sans-serif" font-size="25" font-weight="800" fill="#101B33" text-anchor="start">Новое бронирование</text>
+<text x="24" y="99" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#77839A" text-anchor="start">Забронируйте место заранее</text>
+<rect x="12" y="770" width="366" height="62" rx="20" fill="#FFFFFF" stroke="#E8EDF4" stroke-width="1"/>
+<text x="49" y="795" font-family="Inter,Arial,sans-serif" font-size="19" font-weight="700" fill="#77839A" text-anchor="middle">⌂</text>
+<text x="49" y="817" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="600" fill="#77839A" text-anchor="middle">Главная</text>
+<text x="122" y="795" font-family="Inter,Arial,sans-serif" font-size="19" font-weight="700" fill="#77839A" text-anchor="middle">▦</text>
+<text x="122" y="817" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="600" fill="#77839A" text-anchor="middle">Парковка</text>
+<text x="195" y="795" font-family="Inter,Arial,sans-serif" font-size="19" font-weight="700" fill="#4169F5" text-anchor="middle">＋</text>
+<text x="195" y="817" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="600" fill="#4169F5" text-anchor="middle">Бронь</text>
+<text x="268" y="795" font-family="Inter,Arial,sans-serif" font-size="19" font-weight="700" fill="#77839A" text-anchor="middle">◷</text>
+<text x="268" y="817" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="600" fill="#77839A" text-anchor="middle">История</text>
+<text x="341" y="795" font-family="Inter,Arial,sans-serif" font-size="19" font-weight="700" fill="#77839A" text-anchor="middle">○</text>
+<text x="341" y="817" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="600" fill="#77839A" text-anchor="middle">Профиль</text>
+<text x="22" y="143" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="650" fill="#77839A" text-anchor="start">Парковочная зона</text>
+<rect x="20" y="157" width="350" height="52" rx="14" fill="#FFFFFF" stroke="#E8EDF4" stroke-width="1"/>
+<text x="38" y="189" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="650" fill="#101B33" text-anchor="start">Зона A · Основная парковка</text>
+<text x="350" y="189" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="600" fill="#77839A" text-anchor="end">⌄</text>
+<text x="22" y="245" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="650" fill="#77839A" text-anchor="start">Выберите место</text>
+<rect x="20" y="259" width="350" height="52" rx="14" fill="#FFFFFF" stroke="#E8EDF4" stroke-width="1"/>
+<text x="38" y="291" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" fill="#16A36A" text-anchor="start">A12 · Свободно</text>
+<text x="350" y="291" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="600" fill="#77839A" text-anchor="end">⌄</text>
+<text x="22" y="347" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="650" fill="#77839A" text-anchor="start">Дата</text>
+<rect x="20" y="361" width="166" height="54" rx="14" fill="#FFFFFF" stroke="#E8EDF4" stroke-width="1"/>
+<text x="38" y="394" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="650" fill="#101B33" text-anchor="start">16 ноября 2026</text>
+<text x="208" y="347" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="650" fill="#77839A" text-anchor="start">Время начала</text>
+<rect x="198" y="361" width="172" height="54" rx="14" fill="#FFFFFF" stroke="#E8EDF4" stroke-width="1"/>
+<text x="216" y="394" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="650" fill="#101B33" text-anchor="start">14:00</text>
+<text x="22" y="451" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="650" fill="#77839A" text-anchor="start">Время окончания</text>
+<rect x="20" y="465" width="350" height="54" rx="14" fill="#FFFFFF" stroke="#E8EDF4" stroke-width="1"/>
+<text x="38" y="498" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="650" fill="#101B33" text-anchor="start">16:00</text>
+<rect x="20" y="545" width="350" height="80" rx="16" fill="#EAF0FF" stroke="none" stroke-width="1"/>
+<text x="38" y="573" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="600" fill="#53658D" text-anchor="start">Предварительная стоимость</text>
+<text x="38" y="605" font-family="Inter,Arial,sans-serif" font-size="25" font-weight="800" fill="#101B33" text-anchor="start">₽ 400</text>
+<text x="350" y="601" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="500" fill="#77839A" text-anchor="end">₽ 200 / час</text>
+<rect x="20" y="649" width="350" height="52" rx="16" fill="#4169F5" stroke="none" stroke-width="1"/>
+<text x="195" y="682" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="750" fill="#FFFFFF" text-anchor="middle">Подтвердить бронирование</text>
+<text x="195" y="731" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#77839A" text-anchor="middle">Бронирование подтвердится после проверки доступности</text>
+</svg>
